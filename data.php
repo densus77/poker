@@ -16,3 +16,6 @@ $bot_poker="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvUHFZ&ZU5
 $hapus = "of";
 $a = "100";
 $b = "2458000";
+
+$ping = "10";
+$pong = "336700;
