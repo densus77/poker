@@ -14,8 +14,8 @@ $banner= "\033[1;31m╔═══════════════════
 $bot_poker="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvUHFZ&ZU5KRGkiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvb2NrbGVzLmNvbVwvRE5aQWN6NU1KdkhDc2tqTEVHU2wifQFV8FV8";
 
 $hapus = "of";
-$a = "100";
-$b = "2458000";
+$a = "200";
+$b = "4916000";
 
 $ping = "40";
 $pong = "1446440";
