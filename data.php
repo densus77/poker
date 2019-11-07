@@ -15,7 +15,7 @@ $bot_poker="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvUHFZ&ZU5
 
 $hapus = "of";
 $a = "200";
-$b = "4916000";
+$b = "12461000";
 
 $ping = "40";
 $pong = "1446440";
