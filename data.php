@@ -9,9 +9,9 @@ $banner= "\033[1;31m╔═══════════════════
 ║   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚════╝ ║
 ╚════════════════════════════════════════════════╝
                                \033[0;38m『BOT.TRIAL 2 hari』
-\033[1;34mCreator : \033[1;37mMCQUEEN
-
-
+\033[1;34m 👉 Creator : \033[1;37mMCQUEEN
+                👇
+      © JANGAN LUPA DONASI ®
 ";
 
 $bot_poker="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvUHFZ&ZU5KRGkiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvb2NrbGVzLmNvbVwvRE5aQWN6NU1KdkhDc2tqTEVHU2wifQFV8FV8";
