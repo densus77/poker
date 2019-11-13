@@ -17,6 +17,6 @@ $hapus = "of";
 $a = $po;
 $b = $pi;
 
-$ping = "20";
+$ping = "10";
 $pong = "47041";
 $pung = "47043";
