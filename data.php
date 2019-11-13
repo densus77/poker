@@ -21,6 +21,6 @@ $pi=get_reff($po,0);
 $a = $po;
 $b = $pi;
 
-$ping = "10";
+$ping = "20";
 $pong = "43231";
 $pung = "43233";
